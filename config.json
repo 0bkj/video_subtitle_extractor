@@ -1,0 +1,9 @@
+{
+  "backend": "faster-whisper",
+  "model": "large-v3",
+  "device": "cuda",
+  "compute_type": "float16",
+  "language": null,
+  "beam_size": 5,
+  "vad_filter": true
+}
